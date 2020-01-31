@@ -1,6 +1,10 @@
+![Icon](app_icon.png)
+
 # BMICalculator
 
 A simple yet very promising android application to compute BMI.
+
+![Visual](app_visual.png)
 
 # Installation
 
